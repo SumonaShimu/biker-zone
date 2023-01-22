@@ -1,3 +1,19 @@
-.star{
-    width: 20px;
+.bz{
+color: antiquewhite;
+}
+.navbar-toggler {
+    background-color:antiquewhite;
+}
+.nav_text_white{
+    color: antiquewhite !important;
+}
+.navbar {
+--bs-navbar-active-color: none!important;
+--bs-navbar-color: none!important;
+}
+.icon{
+    width: 50px;
+}
+.icon2{
+    width: 50px;
 }
