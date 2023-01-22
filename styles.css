@@ -11,6 +11,12 @@ color: antiquewhite;
 --bs-navbar-active-color: none!important;
 --bs-navbar-color: none!important;
 }
+.next-prev_color{
+    background-color: rgba(51, 49, 49, 0.177);
+}
+.next-prev_color:hover{
+    background-color: rgba(55, 43, 43, 0.588);
+}
 .icon{
     width: 1.5rem;
 }
